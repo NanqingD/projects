@@ -1,1 +1,1 @@
-[Movie or Earthquake](https://github.com/NanqingD/Learning_With_Big_Messy_Data) by Nanqing Dong, Yuan Cheng, Ziyi Chen
+[New_York_State_Inpatients_Mortality_Prediction](https://github.com/NanqingD/New_York_State_Inpatients_Mortality_Prediction) by Nanqing Dong, Ziyi Chen
