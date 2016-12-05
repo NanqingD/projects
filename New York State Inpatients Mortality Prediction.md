@@ -1,1 +1,2 @@
-[New York State Inpatients Mortality Prediction](https://github.com/NanqingD/Learning_With_Big_Messy_Data) by Nanqing Dong, Yuan Cheng, Ziyi Chen
+[New York State Inpatients Medical Treatment and Hospital Recommendation Design
+](https://github.com/NanqingD/New_York_State_Inpatients_Medical_Treatment_and_Hospital_Recommender_System_Design) by Nanqing Dong, Yuan Cheng, Ziyi Chen
