@@ -1,1 +1,1 @@
-[New_York_State_Inpatients_Mortality_Prediction](https://github.com/NanqingD/New_York_State_Inpatients_Mortality_Prediction) by Nanqing Dong, Ziyi Chen
+[New_York_State_Inpatients_Medical Treatment and Hospital Recommender System Design](https://github.com/NanqingD/New_York_State_Inpatients_Medical_Treatment_and_Hospital_Recommender_System_Design) by Nanqing Dong, Ziyi Chen
